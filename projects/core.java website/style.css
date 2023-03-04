@@ -91,7 +91,7 @@ ul li a:hover{
     width: 100px;
     height: 40px;
     background: #ff7200;
-    border: 2px solid #ff7200;
+    border: 2px solid #0000;
     margin-top: 13px;
     color: #fff;
     font-size: 15px;
@@ -139,7 +139,7 @@ ul li a:hover{
 .content .cn{
     width: 160px;
     height: 40px;
-    background: #ff7200;
+    background: #000;
     border: none;
     margin-bottom: 10px;
     margin-left: 20px;
@@ -152,7 +152,7 @@ ul li a:hover{
 
 .content .cn a{
     text-decoration: none;
-    color: #000;
+    color: #fff;
     transition: .3s ease;
 }
 
@@ -181,7 +181,7 @@ ul li a:hover{
     width: 220px;
     font-family: sans-serif;
     text-align: center;
-    color: #ff7200;
+    color: #000;
     font-size: 22px;
     background-color: #fff;
     border-radius: 10px;
@@ -193,7 +193,7 @@ ul li a:hover{
     width: 240px;
     height: 35px;
     background: transparent;
-    border-bottom: 1px solid #ff7200;
+    border-bottom: 1px solid #7d3564;
     border-top: none;
     border-right: none;
     border-left: none;
@@ -251,10 +251,10 @@ ul li a:hover{
 }
 .icons a{
     text-decoration: none;
-    color: #fff;
+    color: #1d576c;
 }
 .icons ion-icon{
-    color: #fff;
+    color: #236e71;
     font-size: 30px;
     padding-left: 14px;
     padding-top: 5px;
